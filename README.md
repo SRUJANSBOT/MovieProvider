@@ -154,7 +154,7 @@ Use these settings when adding a monitor:</b>
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/HarshalPurohitEdits/TheMovieProviderBot
+git clone https://github.com/SRUJANSBOT/Movieprovider
 # Install Packages
 pip3 install -U -r requirements.txt
 Edit info.py with variables as given below then run bot
